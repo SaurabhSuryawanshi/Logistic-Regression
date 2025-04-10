@@ -1,4 +1,4 @@
-Heart Attack Predictions
+Heart Disease Predictions
 
 This repository contains a dataset and machine learning models for predicting the likelihood of coronary heart disease (CHD) within a 10-year period. The dataset includes various features such as demographic information, medical history, and health metrics.
 Features
